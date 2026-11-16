@@ -26,3 +26,7 @@ m = 6
 a = CreateMatrix(n, m)
 a2 = Matrix(a)
 print(a2)
+
+print('Я ВТОРОЙ, ДА, Я ВТОРОЙ')
+print('Я ВТОРОЙ, ДА, Я ВТОРОЙ')
+print('Я ВТОРОЙ, ДА, Я ВТОРОЙ')
