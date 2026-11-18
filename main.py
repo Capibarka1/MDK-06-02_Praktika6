@@ -21,7 +21,7 @@ def Matrix (arr: list) -> list:
             a.append(1)
     return a
 
-print('Я ПЕРВЫЙ')
+print('Я ПЕРВЫЙ ;ldcwpecpwec')
 
 n = 8
 m = 6
@@ -29,9 +29,4 @@ a = CreateMatrix(n, m)
 a2 = Matrix(a)
 print(a2)
 
-print('Я ПЕРВЫЙ')
-print('Я ПЕРВЫЙ')
-print('Я ПЕРВЫЙ')
-print('Я ПЕРВЫЙ')
-print('Я ПЕРВЫЙ')
-print('Я ПЕРВЫЙ')
+print('123123')
