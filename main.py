@@ -22,11 +22,16 @@ def Matrix (arr: list) -> list:
     return a
 
 print('Я ПЕРВЫЙ ;ldcwpecpwec')
+print('Я ПЕРВЫЙ')
 
 n = 8
 m = 6
 a = CreateMatrix(n, m)
 a2 = Matrix(a)
 print(a2)
+print('ПРИВЕТ')
+print('Я ПЕРВЫЙ')
+print('Я ПЕРВЫЙ')
+print('Я ПЕРВЫЙ')
 
 print('123123')
