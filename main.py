@@ -1,5 +1,5 @@
 def CreateMatrix (n: int, m: int) -> list:
-  a = []
+    a = []
     for i in range(n):
         a.append([])
         for j in range(m):
@@ -21,7 +21,8 @@ def Matrix (arr: list) -> list:
             a.append(1)
     return a
 
-  print('Я ПЕРВЫЙ')
+print('Я ПЕРВЫЙ ;ldcwpecpwec')
+print('Я ПЕРВЫЙ')
 
 n = 8
 m = 6
@@ -32,3 +33,5 @@ print('ПРИВЕТ')
 print('Я ПЕРВЫЙ')
 print('Я ПЕРВЫЙ')
 print('Я ПЕРВЫЙ')
+
+print('123123')
