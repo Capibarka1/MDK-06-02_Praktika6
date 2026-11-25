@@ -21,7 +21,8 @@ def Matrix (arr: list) -> list:
             a.append(1)
     return a
 
-print('Я ПЕРВЫЙ ;ldcwpecpwec')
+def hi():
+    return "hi"
 
 n = 8
 m = 6
